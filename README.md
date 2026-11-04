@@ -8,7 +8,7 @@ purchases are credited to the right link, ad and social network.
 ```yaml
 dependencies:
   pulsetracker_flutter:
-    git: { url: https://github.com/TKr0n0s/pulsetracker-flutter, ref: 0.4.2 }
+    git: { url: https://github.com/TKr0n0s/pulsetracker-flutter, ref: 0.4.3 }
 ```
 
 iOS works with both Swift Package Manager and CocoaPods. Android pulls the SDK

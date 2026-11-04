@@ -4,7 +4,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'pulsetracker_flutter'
-  s.version          = '0.4.2'
+  s.version          = '0.4.3'
   s.summary          = 'PulseTracker app attribution for Flutter.'
   s.description      = <<-DESC
 A new Flutter plugin project.

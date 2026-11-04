@@ -13,7 +13,7 @@ let package = Package(
     ],
     dependencies: [
         .package(name: "FlutterFramework", path: "../FlutterFramework"),
-        .package(url: "https://github.com/TKr0n0s/pulsetracker-ios", from: "0.4.2")
+        .package(url: "https://github.com/TKr0n0s/pulsetracker-ios", from: "0.4.3")
     ],
     targets: [
         .target(

@@ -1,6 +1,6 @@
 name: pulsetracker_flutter
 description: "PulseTracker app attribution for Flutter: which link brought each install, joined to RevenueCat purchases."
-version: 0.4.2
+version: 0.4.3
 homepage: https://github.com/TKr0n0s/pulsetracker-flutter
 
 environment:
