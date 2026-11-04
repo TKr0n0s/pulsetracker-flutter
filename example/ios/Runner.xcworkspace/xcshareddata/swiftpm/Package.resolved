@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "pulsetracker-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/TKr0n0s/pulsetracker-ios",
+      "state" : {
+        "revision" : "466a068ae177cd71d0ce69cd11a3242458e27cb5",
+        "version" : "0.4.2"
+      }
+    }
+  ],
+  "version" : 2
+}
